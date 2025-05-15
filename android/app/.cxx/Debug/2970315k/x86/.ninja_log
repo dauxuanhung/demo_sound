@@ -1,0 +1,10 @@
+# ninja log v5
+4	172	7633601147740569	CMakeFiles/RecorderExample.dir/Superpowered/OpenSource/SuperpoweredAndroidAudioIO.cpp.o	b3905b81bce2a684
+0	411	7633601150108983	CMakeFiles/RecorderExample.dir/src/main/cpp/RecorderExample.cpp.o	663a39f77cd218c6
+412	571	7633601151513892	D:/Work/FileWork/Demo/demo_sound/build/app/intermediates/cxx/Debug/2970315k/obj/x86/libRecorderExample.so	aac1b195d47402f1
+2	304	7633628438234965	CMakeFiles/RecorderExample.dir/src/main/cpp/RecorderExample.cpp.o	663a39f77cd218c6
+304	418	7633628439223531	D:/Work/FileWork/Demo/demo_sound/build/app/intermediates/cxx/Debug/2970315k/obj/x86/libRecorderExample.so	aac1b195d47402f1
+1	298	7633633067555621	CMakeFiles/RecorderExample.dir/src/main/cpp/RecorderExample.cpp.o	663a39f77cd218c6
+299	416	7633633068572192	D:/Work/FileWork/Demo/demo_sound/build/app/intermediates/cxx/Debug/2970315k/obj/x86/libRecorderExample.so	aac1b195d47402f1
+1	277	7633636292938068	CMakeFiles/RecorderExample.dir/src/main/cpp/RecorderExample.cpp.o	663a39f77cd218c6
+277	386	7633636293866882	D:/Work/FileWork/Demo/demo_sound/build/app/intermediates/cxx/Debug/2970315k/obj/x86/libRecorderExample.so	aac1b195d47402f1

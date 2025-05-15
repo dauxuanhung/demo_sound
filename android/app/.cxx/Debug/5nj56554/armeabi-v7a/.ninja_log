@@ -1,0 +1,22 @@
+# ninja log v5
+1	174	7633643310192944	CMakeFiles/RecorderExample.dir/Superpowered/OpenSource/SuperpoweredAndroidAudioIO.cpp.o	db103b8d7f8481df
+4	348	7633643311929205	CMakeFiles/RecorderExample.dir/src/main/cpp/RecorderExample.cpp.o	d43a9671aa2cc33a
+348	471	7633643312992915	D:/Work/FileWork/Demo/demo_sound/build/app/intermediates/cxx/Debug/5nj56554/obj/armeabi-v7a/libRecorderExample.so	425e98a8e423c746
+2	301	7639175073260748	CMakeFiles/RecorderExample.dir/src/main/cpp/RecorderExample.cpp.o	d43a9671aa2cc33a
+301	432	7639175074408116	D:/Work/FileWork/Demo/demo_sound/build/app/intermediates/cxx/Debug/5nj56554/obj/armeabi-v7a/libRecorderExample.so	425e98a8e423c746
+1	298	7639176317229855	CMakeFiles/RecorderExample.dir/src/main/cpp/RecorderExample.cpp.o	d43a9671aa2cc33a
+298	431	7639176318419714	D:/Work/FileWork/Demo/demo_sound/build/app/intermediates/cxx/Debug/5nj56554/obj/armeabi-v7a/libRecorderExample.so	425e98a8e423c746
+1	330	7639178086505843	CMakeFiles/RecorderExample.dir/src/main/cpp/RecorderExample.cpp.o	d43a9671aa2cc33a
+331	505	7639178087987187	D:/Work/FileWork/Demo/demo_sound/build/app/intermediates/cxx/Debug/5nj56554/obj/armeabi-v7a/libRecorderExample.so	425e98a8e423c746
+1	440	7639187952752984	CMakeFiles/RecorderExample.dir/src/main/cpp/RecorderExample.cpp.o	d43a9671aa2cc33a
+441	636	7639187954444910	D:/Work/FileWork/Demo/demo_sound/build/app/intermediates/cxx/Debug/5nj56554/obj/armeabi-v7a/libRecorderExample.so	425e98a8e423c746
+2	312	7639188474940641	CMakeFiles/RecorderExample.dir/src/main/cpp/RecorderExample.cpp.o	d43a9671aa2cc33a
+312	408	7639188475746301	D:/Work/FileWork/Demo/demo_sound/build/app/intermediates/cxx/Debug/5nj56554/obj/armeabi-v7a/libRecorderExample.so	425e98a8e423c746
+2	406	7639190622016220	CMakeFiles/RecorderExample.dir/src/main/cpp/RecorderExample.cpp.o	d43a9671aa2cc33a
+406	560	7639190623344397	D:/Work/FileWork/Demo/demo_sound/build/app/intermediates/cxx/Debug/5nj56554/obj/armeabi-v7a/libRecorderExample.so	425e98a8e423c746
+1	360	7639194320257088	CMakeFiles/RecorderExample.dir/src/main/cpp/RecorderExample.cpp.o	d43a9671aa2cc33a
+361	516	7639194321585452	D:/Work/FileWork/Demo/demo_sound/build/app/intermediates/cxx/Debug/5nj56554/obj/armeabi-v7a/libRecorderExample.so	425e98a8e423c746
+2	285	7640805141540663	CMakeFiles/RecorderExample.dir/src/main/cpp/RecorderExample.cpp.o	d43a9671aa2cc33a
+286	437	7640805142826678	D:/Work/FileWork/Demo/demo_sound/build/app/intermediates/cxx/Debug/5nj56554/obj/armeabi-v7a/libRecorderExample.so	425e98a8e423c746
+1	306	7641479835086888	CMakeFiles/RecorderExample.dir/src/main/cpp/RecorderExample.cpp.o	d43a9671aa2cc33a
+307	459	7641479836356851	D:/Work/FileWork/Demo/demo_sound/build/app/intermediates/cxx/Debug/5nj56554/obj/armeabi-v7a/libRecorderExample.so	425e98a8e423c746

@@ -1,0 +1,3 @@
+D:/Work/FileWork/Demo/demo_sound/android/app/.cxx/Debug/5nj56554/x86_64/CMakeFiles/RecorderExample.dir
+D:/Work/FileWork/Demo/demo_sound/android/app/.cxx/Debug/5nj56554/x86_64/CMakeFiles/edit_cache.dir
+D:/Work/FileWork/Demo/demo_sound/android/app/.cxx/Debug/5nj56554/x86_64/CMakeFiles/rebuild_cache.dir

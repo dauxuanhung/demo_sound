@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "D:\\Work\\FileWork\\Demo\\demo_sound\\android\\app\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\Work\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\Work\\FileWork\\Demo\\demo_sound\\android\\app\\.cxx\\Debug\\5nj56554\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\Work\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\Work\\FileWork\\Demo\\demo_sound\\android\\app\\.cxx\\Debug\\5nj56554\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "RecorderExample::@6890427a1f51a3e7e1df": {
+      "artifactName": "RecorderExample",
+      "abi": "x86",
+      "output": "D:\\Work\\FileWork\\Demo\\demo_sound\\build\\app\\intermediates\\cxx\\Debug\\5nj56554\\obj\\x86\\libRecorderExample.so",
+      "runtimeFiles": []
+    }
+  }
+}

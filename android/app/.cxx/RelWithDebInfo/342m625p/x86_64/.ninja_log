@@ -1,0 +1,4 @@
+# ninja log v5
+3	174	7641692077956436	CMakeFiles/RecorderExample.dir/Superpowered/OpenSource/SuperpoweredAndroidAudioIO.cpp.o	cb269ab179a1e9e1
+0	291	7641692079097517	CMakeFiles/RecorderExample.dir/src/main/cpp/RecorderExample.cpp.o	3b0690b70f25a8b6
+291	431	7641692080287859	D:/Work/FileWork/Demo/demo_sound/build/app/intermediates/cxx/RelWithDebInfo/342m625p/obj/x86_64/libRecorderExample.so	3390bc59ffa2c742

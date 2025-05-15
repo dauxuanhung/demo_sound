@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/Work/FileWork/Demo/demo_sound/android/app/.cxx/Debug/2970315k/armeabi-v7a",
+  "command": "D:\\Work\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi26 --sysroot=D:/Work/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DRecorderExample_EXPORTS -ID:/Work/FileWork/Demo/demo_sound/android/app/src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -fsigned-char -ID:\\Work\\FileWork\\Demo\\demo_sound\\android\\app\\Superpowered -fno-limit-debug-info  -fPIC -o CMakeFiles\\RecorderExample.dir\\src\\main\\cpp\\RecorderExample.cpp.o -c D:\\Work\\FileWork\\Demo\\demo_sound\\android\\app\\src\\main\\cpp\\RecorderExample.cpp",
+  "file": "D:\\Work\\FileWork\\Demo\\demo_sound\\android\\app\\src\\main\\cpp\\RecorderExample.cpp"
+},
+{
+  "directory": "D:/Work/FileWork/Demo/demo_sound/android/app/.cxx/Debug/2970315k/armeabi-v7a",
+  "command": "D:\\Work\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi26 --sysroot=D:/Work/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DRecorderExample_EXPORTS -ID:/Work/FileWork/Demo/demo_sound/android/app/src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -fsigned-char -ID:\\Work\\FileWork\\Demo\\demo_sound\\android\\app\\Superpowered -fno-limit-debug-info  -fPIC -o CMakeFiles\\RecorderExample.dir\\Superpowered\\OpenSource\\SuperpoweredAndroidAudioIO.cpp.o -c D:\\Work\\FileWork\\Demo\\demo_sound\\android\\app\\Superpowered\\OpenSource\\SuperpoweredAndroidAudioIO.cpp",
+  "file": "D:\\Work\\FileWork\\Demo\\demo_sound\\android\\app\\Superpowered\\OpenSource\\SuperpoweredAndroidAudioIO.cpp"
+}
+]
