@@ -120,6 +120,7 @@ class _AudioScreenState extends ConsumerState<AudioScreen> {
                     builder: (context, ref, child) {
                       var isPlay = ref.watch(mainViewModel.select((value) => value.isPlaySound));
                       var filePath = ref.watch(mainViewModel.select((value) => value.filePath));
+                      var bpm = ref.watch(mainViewModel.select((value) => value.bpm));
                       return filePath != null
                           ? Row(
                               mainAxisSize: MainAxisSize.min,
@@ -140,7 +141,7 @@ class _AudioScreenState extends ConsumerState<AudioScreen> {
                                   ),
                                 ),
                                 const SizedBox(width: 12),
-                                Flexible(child: Text(filePath.substring(filePath.lastIndexOf("/") + 1)))
+                                Flexible(child: Text("${filePath.substring(filePath.lastIndexOf("/") + 1)} - BPM ${bpm.toString()}"))
                               ],
                             )
                           : const SizedBox.shrink();

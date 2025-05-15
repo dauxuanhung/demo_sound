@@ -36,8 +36,8 @@ class NativeCaller {
 
   static Future<double?> getBpmOfFile(String filePath) async {
     try {
-      final double? result = await _channel.invokeMethod('getBmpOfFile', {"filePath": filePath});
-      return result;
+      final result = await _channel.invokeMethod('getBmpOfFile', {"filePath": filePath});
+      return double.tryParse(result.toString());
     } catch (e) {
       return null;
     }
